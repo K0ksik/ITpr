@@ -11,7 +11,7 @@ export default function Login(){
         navigate("/dashboard"); //Программный переход после логина
     }
     else{
-        alert("Ошибка авторазации");
+        alert("Ошибка авторизации");
     }
 }
 
